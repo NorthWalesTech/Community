@@ -1,0 +1,7 @@
+Colours:
+
+# Not far off CSS DarkSlateGrey (#2F4F4F)
+teal:   #2d4757
+
+# Not far off CSS OrangeRed (#FF4500)
+orange: #f14624
