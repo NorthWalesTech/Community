@@ -1,18 +1,19 @@
 North Wales Tech Constitution for Unincorporated Association
 
-1. Name
+# 1. Name
 
 The name of the group shall be North Wales Tech
 
-2. Aims
+# 2. Aims
 
 The aims of North Wales Tech will be:
 
-*
-*
-*
+* To form and foster a community for developers and technologists in North Wales.
+* To promote and raise the profile of the technology industry in North Wales.
+* To do what we can to increase the technical skills of the community.
+* To support members of the community and promote communiy interest projects.
 
-3. Membership
+# 3. Membership
 
 Membership is open to anyone who:
 
@@ -36,11 +37,11 @@ Any member who has not been active on any of the group social media platforms or
 
 Any offensive behaviour, including racist, sexist or inflammatory remarks, will not be permitted. Anyone behaving in an offensive way or breaking the equal opportunities policy may be asked not to attend further meetings or to resign from the group if an apology is not given or the behaviour is repeated. The individual concerned shall have the right to be heard by the management committee, accompanied by a friend, before a final decision is made.
 
-4. Equal Opportunities
+# 4. Equal Opportunities
 
 North Wales Tech will not discriminate on the grounds of gender, race, colour, ethnic or national origin, sexuality, disability, religious or political belief, marital status or age.
 
-5. Officers and committee
+# 5. Officers and committee
 
 The business of the group will be carried out by a Committee elected at the Annual General Meeting. The Committee will meet as necessary and not less than four times a year.
 
@@ -58,9 +59,9 @@ Any committee member not attending a meeting without apology for three months wi
 
 The Committee meetings will be open to any member of North Wales Tech wishing to attend, who may speak but not vote.
 
-6. Meetings
+# 6. Meetings
 
-6.1. Annual General Meetings
+## 6.1. Annual General Meetings
 
 An Annual General Meeting (AGM) will be held within fifteen months of the previous AGM.
 
@@ -70,14 +71,14 @@ Nominations for the committee may be made to the Secretary before the meeting, o
 
 The quorum for the AGM will be 10% of the membership or 10 members, whichever is the greater number.
 
-At the AGM:-
+At the AGM:
 
 The Committee will present a report of the work of North Wales Tech over the year.
 The Committee will present the accounts of North Wales Tech for the previous year.
 The officers and Committee for the next year will be elected.
 Any proposals given to the Secretary at least 7 days in advance of the meeting will be discussed.
 
-6.2 Special General Meetings
+## 6.2 Special General Meetings
 
 The Secretary will call a Special General Meeting at the request of the majority of the committee or at least eight other members giving a written request to the Chair or Secretary stating the reason for their request.
 
@@ -87,7 +88,7 @@ All members will be given two weeks notice of such a meeting, giving the venue, 
 
 The quorum for the Special General Meeting will be 10% of the membership or 10 members, whichever is the greater number.
 
-6.3 General Meetings
+## 6.3 General Meetings
 
 General Meetings are open to all members and will be held at least once every 3 months or more often if necessary.
 
@@ -95,19 +96,19 @@ All members will be given two weeks’ notice of such a meeting, giving the venu
 
 The quorum for a General Meeting shall be 10% of the membership or 5 members, whichever is the greater number.
 
-6.4 Committee Meetings
+## 6.4 Committee Meetings
 
 Committee meetings may be called by the Chair or Secretary. Committee members must receive notice of meetings at least 7 days before the meeting.
 
 The quorum for Committee meetings is three Committee members.
 
-7. Rules of Procedure for meetings
+# 7. Rules of Procedure for meetings
 
 All questions that arise at any meeting will be discussed openly and the meeting will seek to find general agreement that everyone present can agree to.
 
 If a consensus cannot be reached a vote will be taken and a decision will be made by a simple majority of members present. If the number of votes cast on each side is equal, the chair of the meeting shall have an additional casting vote.
 
-8. Finances
+# 8. Finances
 
 An account will be maintained on behalf of the Association at a bank agreed by the committee. Three cheque signatories will be nominated by the Committee (one to be the Treasurer).  The signatories must not be related nor members of the same household.
 
@@ -119,7 +120,7 @@ Records of income and expenditure will be maintained by the Treasurer and a fina
 
 All money raised by or on behalf of North Wales Tech is only to be used to further the aims of the group, as specified in item 2 of this constitution.
 
-9. Amendments to the Constitution
+# 9. Amendments to the Constitution
 
 Amendments to the constitution may only be made at the Annual General Meeting or a Special General Meeting.
 
@@ -127,7 +128,7 @@ Any proposal to amend the constitution must be given to the Secretary in writing
 
 Any proposal to amend the constitution will require a two thirds majority of those present and entitled to vote.
 
-10. Dissolution
+# 10. Dissolution
 
 If a meeting, by simple majority, decides that it is necessary to close down the group it may call a Special General Meeting to do so. The sole business of this meeting will be to dissolve the group.
 
