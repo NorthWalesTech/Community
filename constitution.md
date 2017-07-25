@@ -8,58 +8,78 @@ The name of the group shall be North Wales Tech
 
 The aims of North Wales Tech will be:
 
-* To form and foster a community for developers and technologists in North Wales.
+* To form and foster a community for developers, makers and technologists in North Wales.
 * To promote and raise the profile of the technology industry in North Wales.
-* To do what we can to increase the technical skills of the community.
-* To support members of the community and promote communiy interest projects.
+* To increase the skills of our members and the wider community.
+* Not for profit
+
+# 3. Objectives
+
+#* Run a minimum of one event a month
+
 
 # 3. Membership
 
 Membership is open to anyone who:
 
 * is aged 16 years old or over;
-* lives in or has connections to North Wales.
+* under 16 can attend in the presence of parent of guardian.
 
-Membership will begin as soon as the Meetup.com Group or Facebook Group are joined.
 
-There will be no annual membership fee.
+Foundation membership will begin as soon as someone joins one of the social platforms.
 
-A list of all members will be kept by the membership secretary.
+A guiding member is a member who has subscribed at 2 pounds a year.
+Cororprate member is a sponsor at 50
 
-Ceasing to be a member
+A member who has contributed in the last 12 months (presented or helped to ogranise an event at the discretion of the comitee) will be considered a contributing member.
+
+
+A list of all members will is the list of current members on the meetup.com group
+A membership sectary will collect fees and maintain the list of members
+
+## Ceasing to be a member
 
 Members may resign at any time by ceasing to be members of any of:
 
-* The Facebook Group
-* The Meetup.com Group
+* The social platforms
+* Guiding membership will elapse at the end of 12 months or formally at any time by contacting the membership secutary.
 
-Any member who has not been active on any of the group social media platforms or physucal meetups for one year will be contacted by the committee, who will then decide whether that member is deemed to have resigned.
 
-Any offensive behaviour, including racist, sexist or inflammatory remarks, will not be permitted. Anyone behaving in an offensive way or breaking the equal opportunities policy may be asked not to attend further meetings or to resign from the group if an apology is not given or the behaviour is repeated. The individual concerned shall have the right to be heard by the management committee, accompanied by a friend, before a final decision is made.
+Anyone behaving in an offensive way or breaking the equal opportunities policy may be asked not to attend further meetings or to resign from the group if an apology is not given or the behaviour is repeated. The individual concerned shall have the right to be heard by the management committee, accompanied by a friend, before a final decision is made.
 
 # 4. Equal Opportunities
 
-North Wales Tech will not discriminate on the grounds of gender, race, colour, ethnic or national origin, sexuality, disability, religious or political belief, marital status or age.
+North Wales Tech is committed to supporting eqaul oppertunities. Any behaviour deemed inapropriate will be reffered to the committe.
 
 # 5. Officers and committee
 
-The business of the group will be carried out by a Committee elected at the Annual General Meeting. The Committee will meet as necessary and not less than four times a year.
-
-The Committee will consist of 8 members, and be composed of 4 officers and 4 committee members. Up to 2 additional members may be co-opted onto the committee at the discretion of the committee.
+ROB to fill in also via other mechanisms
+NOT go into DEBT
 
 The officers’ roles are as follows:
-
 Chair, who shall chair both general and committee meetings
+Vice chair
 Secretary, who shall be responsible for the taking of minutes and the distribution of all papers
-Membership secretary, who shall be responsible for keeping records of members
 Treasurer who shall be responsible for maintaining accounts
-In the event of an officer standing down during the year a replacement will be elected by the next General Meeting of members.
+Social
 
-Any committee member not attending a meeting without apology for three months will be contacted by the committee and asked if they wish to resign.
+In the event of an officer standing down during the year a replacement will be elected by the next General Meeting of attending members.
 
-The Committee meetings will be open to any member of North Wales Tech wishing to attend, who may speak but not vote.
+Any committee member not attending a meeting without apology for six months will be resigned.
+
+The Committee meetings will be open to any attending member of North Wales Tech wishing to attend, who may speak but not vote.
+
+All committee members will be given the ability to
+
+* post to twitter as NW Tech
+* post to facebook as NW Tech
+* organise events on Meetup
+
 
 # 6. Meetings
+
+Meetings can be carriend out through a combination of physical presence or via telepresence (e.g. hangout etc.)
+Minimum of 4 offices in meat space
 
 ## 6.1. Annual General Meetings
 
@@ -69,7 +89,7 @@ All members will be notified in writing at least 3 weeks before the date of the 
 
 Nominations for the committee may be made to the Secretary before the meeting, or at the meeting.
 
-The quorum for the AGM will be 10% of the membership or 10 members, whichever is the greater number.
+The quorum for the AGM will be 10% of the quiding membership or 10 attending members, whichever is the greater number.
 
 At the AGM:
 
@@ -80,21 +100,21 @@ Any proposals given to the Secretary at least 7 days in advance of the meeting w
 
 ## 6.2 Special General Meetings
 
-The Secretary will call a Special General Meeting at the request of the majority of the committee or at least eight other members giving a written request to the Chair or Secretary stating the reason for their request.
+The Secretary will call a Special General Meeting at the request of the majority of the committee or at least eight other guiding members giving a written request to the Chair or Secretary stating the reason for their request.
 
-The meeting will take place within twenty-one days of the request.
+The meeting should be organised within twenty-one days of the request.
 
-All members will be given two weeks notice of such a meeting, giving the venue, date, time and agenda, and notice may be by telephone, email or post.
+All members will be given two weeks notice of such a meeting, giving the venue, date, time and agenda, and notice may be by meetup event, telephone, email or post.
 
-The quorum for the Special General Meeting will be 10% of the membership or 10 members, whichever is the greater number.
+The quorum for the Special General Meeting will be 10% of the active membership or 10 active members, whichever is the greater number.
 
 ## 6.3 General Meetings
 
-General Meetings are open to all members and will be held at least once every 3 months or more often if necessary.
+General Meetings are open to all members and will be held at least once every 6 months or more often if necessary.
 
-All members will be given two weeks’ notice of such a meeting, giving the venue, date, time and agenda, and notice may be by telephone, email or post.
+All members will be given two weeks’ notice of such a meeting, giving the venue, date, time and agenda, and notice may be by telephone or email .
 
-The quorum for a General Meeting shall be 10% of the membership or 5 members, whichever is the greater number.
+The quorum for a General Meeting shall be 2 guiding members plus three members of commite
 
 ## 6.4 Committee Meetings
 
@@ -112,13 +132,12 @@ If a consensus cannot be reached a vote will be taken and a decision will be mad
 
 An account will be maintained on behalf of the Association at a bank agreed by the committee. Three cheque signatories will be nominated by the Committee (one to be the Treasurer).  The signatories must not be related nor members of the same household.
 
-All payments will be signed by two of the signatories.
+Enacting payment by trasures. Treearce can do all the stuff.
+All expendatiture to go thtough the comitee
 
-For cheque payments, the signatories will sign the cheque.
-For other payments (such as BACS payments, cash withdrawals, debit card payments or cash payments), a requisition note will be signed by two signatories, and held by the treasurer.
-Records of income and expenditure will be maintained by the Treasurer and a financial statement given at each meeting.
 
-All money raised by or on behalf of North Wales Tech is only to be used to further the aims of the group, as specified in item 2 of this constitution.
+Non coin membership
+stripe
 
 # 9. Amendments to the Constitution
 
@@ -145,4 +164,3 @@ Signed …………………………………………
 Name and position in group …………………………………………
 
 Signed …………………………………………
-
