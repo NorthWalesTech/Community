@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="nwt-logo-long.svg"
-   inkscape:export-filename="C:\Users\carwyn\Google Drive\Projects\North Wales Tech\logo-swatch.png"
-   inkscape:export-xdpi="97.503975"
-   inkscape:export-ydpi="97.503975">
+   inkscape:export-filename="/home/carwyn/Downloads/nwt-long.png"
+   inkscape:export-xdpi="100.70454"
+   inkscape:export-ydpi="100.70454">
   <defs
      id="defs4">
     <clipPath
@@ -302,10 +302,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1"
-     inkscape:cx="578.41617"
-     inkscape:cy="421.96883"
+     inkscape:cx="277.05253"
+     inkscape:cy="418.33247"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5863"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1376"
@@ -340,7 +340,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -362,8 +362,8 @@
     <g
        id="g5585"
        transform="matrix(0.53624435,0,0,0.53624435,-68.570609,398.83769)"
-       inkscape:export-xdpi="225.00003"
-       inkscape:export-ydpi="225.00003"
+       inkscape:export-xdpi="100.70454"
+       inkscape:export-ydpi="100.70454"
        inkscape:export-filename="/home/carwyn/Downloads/nwt-long.png">
       <rect
          style="fill:#2d4757;fill-opacity:1;stroke:#2d4757;stroke-width:3.41129899;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -550,8 +550,8 @@
     <g
        id="g5863"
        transform="matrix(1.473132,0,0,1.473132,-77.469429,524.39337)"
-       inkscape:export-xdpi="225.00003"
-       inkscape:export-ydpi="225.00003"
+       inkscape:export-xdpi="100.70454"
+       inkscape:export-ydpi="100.70454"
        inkscape:export-filename="/home/carwyn/Downloads/nwt-long.png">
       <g
          transform="matrix(0.57274463,0,0,-0.57274463,203.85108,134.20144)"
@@ -679,24 +679,6 @@
            id="path3635"
            style="fill:#2d4757;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="m 0,0 v 98.812 c 0,1.407 1.249,2.654 2.653,2.654 h 9.523 c 1.406,0 2.654,-1.247 2.654,-2.654 V 74.306 c 0,-1.405 1.249,-2.655 2.654,-2.655 h 24.508 c 1.405,0 2.653,-1.248 2.653,-2.655 v -9.521 c 0,-1.405 1.249,-2.655 2.655,-2.655 h 9.521 c 1.406,0 2.655,-1.245 2.655,-2.652 L 59.476,0 c 0,-1.404 -1.249,-2.652 -2.655,-2.652 H 47.3 c -1.406,0 -2.655,1.248 -2.655,2.652 v 54.168 c 0,1.407 -1.248,2.652 -2.653,2.652 H 17.484 c -1.405,0 -2.654,-1.245 -2.654,-2.652 L 14.83,0 c 0,-1.404 -1.248,-2.652 -2.654,-2.652 H 2.653 C 1.249,-2.652 0,-1.404 0,0" />
-      </g>
-      <g
-         transform="matrix(0.57274463,0,0,-0.57274463,643.60406,99.155154)"
-         id="g3861">
-        <path
-           inkscape:connector-curvature="0"
-           id="path3863"
-           style="fill:#f14624;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 0,0 h -22.309 c -1.013,0 -1.842,0.829 -1.842,1.843 v 22.308 c 0,1.014 0.829,1.843 1.842,1.843 H 0 c 1.013,0 1.843,-0.829 1.843,-1.843 V 1.843 C 1.843,0.829 1.013,0 0,0" />
-      </g>
-      <g
-         transform="matrix(0.57274463,0,0,-0.57274463,300.71108,118.87561)"
-         id="g3865">
-        <path
-           inkscape:connector-curvature="0"
-           id="path3867"
-           style="fill:#f14624;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 0,0 h -22.309 c -1.013,0 -1.842,0.829 -1.842,1.843 v 22.308 c 0,1.014 0.829,1.843 1.842,1.843 H 0 c 1.013,0 1.843,-0.829 1.843,-1.843 V 1.843 C 1.843,0.829 1.013,0 0,0" />
       </g>
       <g
          transform="matrix(0.57274463,0,0,-0.57274463,572.44262,135.70823)"
