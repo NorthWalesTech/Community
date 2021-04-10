@@ -1,4 +1,4 @@
-# North Wales Tech Community Respository
+# North Wales Tech Community
 
 A repo for managing issues and documentation for group administration.
 
